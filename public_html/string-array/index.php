@@ -1,4 +1,4 @@
-
+<?php
 $obj = new main();
   $text = "Nehal";
     $text2= "Nehal Nilesh Ukey";
