@@ -1,5 +1,5 @@
 
-bj = new main();
+$obj = new main();
   $text = "Nehal";
     $text2= "Nehal Nilesh Ukey";
         $obj->str_repeat1($text);
